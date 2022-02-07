@@ -1,0 +1,12 @@
+{
+  "name": "CustomerAngular",
+  "version": "1.0.0",
+  "author": "Mani Ranganathan",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "12.20.42",
+    "angular-jsdoc": "1.5.1",
+    "bower": "1.8.8",
+    "bower-license": "^0.4.4"
+  }
+}
